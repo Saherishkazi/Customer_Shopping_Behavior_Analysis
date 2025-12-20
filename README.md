@@ -8,6 +8,7 @@ The goal of this project is to simulate a corporate-grade, end-to-end data analy
 This project mirrors real-world responsibilities of a Data Analyst working with cross-functional business teams.
 
 🔄 Project Workflow
+
 ✅ 1. Data Preparation, Modeling & EDA (Python)
 
 Cleaned and transformed raw datasets
